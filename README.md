@@ -1,2 +1,2 @@
 # Data-Analysis
- Report of a Data analysis of a dataset recording number of suicides in a region
+ Mini project report of data mining (DMBI) visualising data analysis of a dataset recording number of suicides in a region
